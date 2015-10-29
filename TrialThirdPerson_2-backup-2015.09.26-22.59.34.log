@@ -1,0 +1,47 @@
+﻿[2015.09.27-02.59.32:480][  0]Log file open, 09/26/15 22:59:32
+[2015.09.27-02.59.32:480][  0]LogInit:Display: Running engine for game: TrialThirdPerson
+[2015.09.27-02.59.32:480][  0]LogInit:Display: RandInit(253787670) SRandInit(253787670).
+[2015.09.27-02.59.32:480][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2015.09.27-02.59.32:480][  0]LogStats: Stats thread started at 0.197821
+[2015.09.27-02.59.32:480][  0]LogInit: Version: 4.9.1-2689999+++depot+UE4-Releases+4.9
+[2015.09.27-02.59.32:480][  0]LogInit: API Version: 2672455
+[2015.09.27-02.59.32:480][  0]LogInit: Compiled (64-bit): Sep 14 2015 04:12:03
+[2015.09.27-02.59.32:480][  0]LogInit: Compiled with Visual C++: 18.00.21005.01
+[2015.09.27-02.59.32:480][  0]LogInit: Build Configuration: Development
+[2015.09.27-02.59.32:480][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.9
+[2015.09.27-02.59.32:480][  0]LogInit: Command line:  /Temp/Autosaves/Game/StarterContent/Maps/UEDPCMinimal_Default -game -PIEVIACONSOLE -ResX=1920 -ResY=1080  -Multiprocess 
+[2015.09.27-02.59.32:480][  0]LogInit: Base directory: D:/Program Files (x86)/Epic Games/4.9/Engine/Binaries/Win64/
+[2015.09.27-02.59.32:480][  0]LogInit: Rocket: 1
+[2015.09.27-02.59.32:495][  0]LogInit: Using libcurl 7.41.0
+[2015.09.27-02.59.32:495][  0]LogInit:  - built for x86_64-pc-win32
+[2015.09.27-02.59.32:495][  0]LogInit:  - supports SSL with WinSSL
+[2015.09.27-02.59.32:495][  0]LogInit:  - other features:
+[2015.09.27-02.59.32:495][  0]LogInit:      CURL_VERSION_SSL
+[2015.09.27-02.59.32:495][  0]LogInit:      CURL_VERSION_IPV6
+[2015.09.27-02.59.32:495][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2015.09.27-02.59.32:495][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2015.09.27-02.59.32:495][  0]LogInit:      CURL_VERSION_IDN
+[2015.09.27-02.59.32:496][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2015.09.27-02.59.32:496][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2015.09.27-02.59.32:496][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2015.09.27-02.59.32:496][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2015.09.27-02.59.32:496][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2015.09.27-02.59.32:502][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.09.27-02.59.32:507][  0]LogInit: Object subsystem initialized
+[2015.09.27-02.59.32:546][  0]LogInit: Selected Device Profile: [Windows]
+[2015.09.27-02.59.32:546][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.09.27-02.59.32:550][  0]LogInit: Computer: DIGITALSTORM-PC
+[2015.09.27-02.59.32:550][  0]LogInit: User: Juan
+[2015.09.27-02.59.32:550][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.09.27-02.59.32:550][  0]LogInit: High frequency timer resolution =3.507503 MHz
+[2015.09.27-02.59.32:550][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2015.09.27-02.59.32:550][  0]LogMemory: Platform Memory Stats for Windows
+[2015.09.27-02.59.32:550][  0]LogMemory: Process Physical Memory: 55.96 MB used, 55.96 MB peak
+[2015.09.27-02.59.32:550][  0]LogMemory: Process Virtual Memory: 57.12 MB used, 57.12 MB peak
+[2015.09.27-02.59.32:550][  0]LogMemory: Physical Memory: 4367.89 MB used, 8149.59 MB total
+[2015.09.27-02.59.32:550][  0]LogMemory: Virtual Memory: 356.15 MB used, 134217728.00 MB total
+[2015.09.27-02.59.32:602][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2015.09.27-02.59.33:212][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 980M        (Feature Level 11_0)
+[2015.09.27-02.59.33:212][  0]LogD3D11RHI: Adapter has 8039MB of dedicated video memory, 0MB of dedicated system memory, and 4074MB of shared system memory, 1 output[s]
+[2015.09.27-02.59.33:215][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.09.27-02.59
